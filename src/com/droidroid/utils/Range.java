@@ -1,4 +1,4 @@
-package com.droidroid.util;
+package com.droidroid.utils;
 
 /**
  * Created by leibnik on 16-9-1.

@@ -1,4 +1,4 @@
-package com.droidroid.util;
+package com.droidroid.utils;
 
 import java.io.PrintStream;
 

@@ -1,6 +1,6 @@
 package com.droidroid.ch6.exam;
 
-import static com.droidroid.util.Print.*;
+import static com.droidroid.utils.Print.*;
 /**
  * Created by leibnik on 16-9-1.
  */
